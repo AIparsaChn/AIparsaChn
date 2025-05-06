@@ -15,6 +15,7 @@
                             "date_of_birth": "2004-11-7",
                             "major": "computer software"
                             },
+
     "my_field_of_work": "Telegram API Bots",
 
     "my_programming_languages": ["Python", "C++", "Bash script"],
