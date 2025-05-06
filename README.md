@@ -8,17 +8,20 @@
 ```json
 
 {
-"my_personal_information": {
-                        "first_name": "Parsa",
-                        "last_name": "Charkhabi",
-                        "gender": "makle,
-                        "date_of_birth": "2004-11-7",
-                        "major": "computer software"
-                        },
-"my_programming_languages":‌ ["Python", "C++", "Bash script"],
-"my_skills": ["SQlite", "Redis", "Git", "mySQL, "Prompt Engineering", "Linux"],
-"my_field_of_work": "Telegram API Bots",
-"my_favorite_subjects": ["NLP", "LLm", "AI", "machine learning", "Machine Vision", Linux"
+    "my_personal_information": {
+                            "first_name": "Parsa",
+                            "last_name": "Charkhabi",
+                            "gender": "male",
+                            "date_of_birth": "2004-11-7",
+                            "major": "computer software"
+                            },
+    "my_field_of_work": "Telegram API Bots",
+
+    "my_programming_languages": ["Python", "C++", "Bash script"],
+
+    "my_skills": ["SQlite", "Redis", "Git", "mySQL", "Prompt Engineering", "Linux"],
+
+    "my_favorite_subjects": ["NLP", "LLm", "AI", "machine learning", "Machine Vision", "Linux"]
 }
 
 ```
