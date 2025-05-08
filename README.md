@@ -26,3 +26,8 @@
 }
 
 ```
+
+
+<h2>⚡︎ &nbsp; My stats</h2>
+
+![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIparsaChn&show_icons=true&theme=radical)
