@@ -31,3 +31,7 @@
 <h2>⚡︎ &nbsp; My stats</h2>
 
 ![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIparsaChn&show_icons=true&theme=radical)
+
+<h2>⚡︎ &nbsp; My top languages</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIparsaChn&size_weight=0.5&count_weight=0.5&theme=radical)
