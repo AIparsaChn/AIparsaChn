@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 😆 My name is Parsa, and I'm a software student.
-- 🔭 I’m currently working on Telegram bots API's.
+- 🔭 I’m currently working on Telegram bot APIs.
 
 <p><img width="25px" src="https://github.com/user-attachments/assets/aa3714ec-31a8-4b5d-8e89-508f4f2ed166"> I"m a Python developer.</p>
 
@@ -16,13 +16,13 @@
                             "major": "computer software"
                             },
 
-    "my_field_of_work": "Telegram API Bots",
+    "my field of work": "Telegram API Bots",
 
-    "my_programming_languages": ["Python", "C++", "Bash script"],
+    "my programming languages": ["Python", "C++", "Bash script"],
 
-    "my_skills": ["SQlite", "Redis", "Git", "mySQL", "Prompt Engineering", "Linux"],
+    "my skills": ["SQLite", "Redis", "Git", "MYSQL", "Prompt Engineering", "Linux"],
 
-    "my_favorite_subjects": ["NLP", "LLm", "AI", "machine learning", "Machine Vision", "Linux"]
+    "my favorite subjects": ["NLP", "LLm", "AI", "machine learning", "Machine Vision", "Linux"]
 }
 
 ```
